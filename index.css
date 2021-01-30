@@ -99,6 +99,9 @@ table {
     border-bottom: white 4px solid;
 }
 .pages a:hover{
+    color: blue;
+}
+.pages .active{
     border-bottom: 4px #00cc99 solid;
 }
 /* 橫幅圖片 */
